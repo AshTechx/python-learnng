@@ -1,8 +1,8 @@
 def discount (*number):
   for i in number:
-    if(i5020):
+    if(i>50):
       final_price = i - i*(10/100)
-      print("discount applied")
+      print("discount applied",final_price)
     else:
       print("not applied")
       
