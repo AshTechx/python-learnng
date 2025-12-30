@@ -1,10 +1,8 @@
-def discount (*number):
-  for i in number:
-    if(i5020):
-      final_price = i - i*(10/100)
-      print("discount applied")
-    else:
-      print("not applied")
-      
-
-discount(10,100,60,30)
+if (i%3):
+    print("Fizz")
+  elif (i%3 and i%5):
+    print("Fizzbuzz")
+  elif  (i%5):
+    print("Buzz")
+  else:
+    print(i)
