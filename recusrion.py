@@ -40,19 +40,6 @@ import this # pep poem given by tim
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # def numbers (n):
 #   if (n==1):
 #     return 1
@@ -73,3 +60,8 @@ def print_list (list_1,index=0):
 
 list_1 = ["apple","mango","banana"]
 print_list(list_1)
+
+
+
+
+  
