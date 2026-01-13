@@ -21,7 +21,7 @@ s1.intersection_update(s2)
 print(s1)
 
 
-set difference 
+#set difference 
 s1 = {"tokyo","delhi","mumbai","toronto","nashik"}
 s2 = {"tokyo","delhi","raipur","indore","patna"}
 print(s1.symmetric_difference(s2))
@@ -80,4 +80,8 @@ s2.clear()
 print(s2)
 
 
+
+# type of sets 
+s1 = set() # empty sets are defined this way or else they are assumed as dictionary as they have same syntax 
+print(type(s1))
 
