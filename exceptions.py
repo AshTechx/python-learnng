@@ -14,7 +14,7 @@ try :
 except InsuffiecientfundError as e :
   print(e)
 
-password validator example 
+#password validator example 
 class WeakpasswordError (Exception):
   def __init__(self):
     super().__init__("weak password not acceptable ")
