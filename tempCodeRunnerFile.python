@@ -1,0 +1,12 @@
+x = 13
+# y =12
+# c=x
+# x=y
+# y=c
+# print(x,y) # swapping two numbers 
+
+# # kilometer to miles conversion 
+# a = int(input("enter the kilometer "))
+# mile = 0.62137119 * a
+# print("the mile is ",mile)
+ 

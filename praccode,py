@@ -1,0 +1,30 @@
+# x = 13
+# y =12
+# c=x
+# x=y
+# y=c
+# print(x,y) # swapping two numbers 
+
+# # kilometer to miles conversion 
+# a = int(input("enter the kilometer "))
+# mile = 0.62137119 * a
+# print("the mile is ",mile)
+ 
+# positive negative or zero 
+# a = int(input("enter the number "))
+# if (a>0):
+#   print("positive number ")
+# elif (a==0):
+#   print("the number is zero")
+# else:
+#   print("the number is negative")
+
+
+# finding leap year 
+
+year = int(input("enter the year"))
+if(year%4==0 and  year%100 !=0) or (year%400 ==0):
+  print("its a leap year")
+else:
+  print("not a leap year")
+
